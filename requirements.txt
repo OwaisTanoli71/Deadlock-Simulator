@@ -1,0 +1,15 @@
+# Deadlock Simulator — Python Dependencies
+# All packages are from the standard library except:
+#   tkinter — usually bundled with Python (install python3-tk on Linux)
+#
+# No pip packages required for core functionality.
+# Optional: pytest for running tests
+
+# For running tests:
+# pip install pytest
+
+# tkinter installation (if missing):
+#   Ubuntu/Debian:  sudo apt-get install python3-tk
+#   Fedora:         sudo dnf install python3-tkinter
+#   macOS:          brew install python-tk
+#   Windows:        Included with Python installer (check "tcl/tk" option)
