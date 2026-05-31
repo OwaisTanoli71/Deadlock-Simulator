@@ -307,6 +307,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 🙏 Acknowledgement
 
-I would like to express my sincere gratitude to my **Operating Systems Lab Instructor**, **Ms. Hamna Iqbal**, for her continuous guidance, support, and encouragement throughout this project. Her teaching made complex OS concepts like deadlock detection, resource management, and process synchronization easy to understand and implement practically. This project would not have been possible without her valuable insights and feedback.
+I would like to express my sincere gratitude to my **Operating Systems Lab Instructor**, **Ms. Hamna Iqbal**, for her continuous guidance, support, and encouragement throughout this project. Her teaching made complex OS concepts easy to understand and implement practically. 
 
-- 🔗 GitHub: [@HamnaIqbal44](https://github.com/HamnaIqbal44)
+🔗 GitHub: [@HamnaIqbal44](https://github.com/HamnaIqbal44)
