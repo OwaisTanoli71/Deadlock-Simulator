@@ -287,7 +287,7 @@ Tests cover:
 **Owais Tanoli**
 
 - GitHub: [@OwaisTanoli71](https://github.com/OwaisTanoli71)
-- Course: Operating Systems — [University Name]
+- Course: Operating Systems — Pak-Austria Fachhochschule Institute of Applied Sciences and Technology
 
 ---
 
