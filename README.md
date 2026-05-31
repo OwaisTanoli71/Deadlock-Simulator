@@ -1,18 +1,15 @@
 # ⚙️ Deadlock Detection & Recovery Simulator
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6B6B?style=flat-square)
+![OS](https://img.shields.io/badge/Topic-Operating%20Systems-4CAF50?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-18%20Passing-success?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6B6B?style=for-the-badge)
-![OS](https://img.shields.io/badge/Topic-Operating%20Systems-4CAF50?style=for-the-badge)
-![Tests](https://img.shields.io/badge/Tests-18%20Passing-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-
-**An interactive Operating Systems project that simulates, detects, and automatically recovers from deadlocks using three classic algorithms and four recovery strategies — with a live animated Resource Allocation Graph.**
+An interactive Operating Systems project that simulates, detects, and automatically recovers from deadlocks using three classic algorithms and four recovery strategies — with a live animated Resource Allocation Graph.
 
 [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage](#-usage) • [Algorithms](#-algorithms) • [Project Structure](#-project-structure)
 
-</div>
 
 ---
 
